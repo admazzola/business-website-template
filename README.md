@@ -1,6 +1,5 @@
-# Miners Guild 
+# Website Template 
 
-Community DAO for Neutral Dapps
  
 
  
